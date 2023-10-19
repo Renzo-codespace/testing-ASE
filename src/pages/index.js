@@ -61,7 +61,7 @@ export default function Home() {
               Docs <span>-&gt;</span>
             </h2>
             <p>
-              Find in-depth information about Next.js features and&nbsp;API.
+              Find in-depth information about NextJS features and&nbsp;API.
             </p>
           </a>
 
@@ -75,7 +75,7 @@ export default function Home() {
               Learn <span>-&gt;</span>
             </h2>
             <p>
-              Learn about Next.js in an interactive course with&nbsp;quizzes!
+              Learn about NextJS in an interactive course with&nbsp;quizzes!
             </p>
           </a>
 
@@ -89,7 +89,7 @@ export default function Home() {
               Templates <span>-&gt;</span>
             </h2>
             <p>
-              Discover and deploy boilerplate example Next.js&nbsp;projects.
+              Discover and deploy boilerplate example NextJS&nbsp;projects.
             </p>
           </a>
 
@@ -103,7 +103,7 @@ export default function Home() {
               Deploy <span>-&gt;</span>
             </h2>
             <p>
-              Instantly deploy your Next.js site to a shareable URL
+              Instantly deploy your NextJS site to a shareable URL
               with&nbsp;Vercel.
             </p>
           </a>

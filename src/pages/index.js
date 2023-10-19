@@ -58,7 +58,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2>
-              Docs <span>-&gt;</span>
+              DOCS <span>-&gt;</span>
             </h2>
             <p>
               Find in-depth information about NextJS features and&nbsp;API.
@@ -72,7 +72,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2>
-              Learn <span>-&gt;</span>
+              LEARN <span>-&gt;</span>
             </h2>
             <p>
               Learn about NextJS in an interactive course with&nbsp;quizzes!
@@ -86,7 +86,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2>
-              Templates <span>-&gt;</span>
+              TEMPLATES <span>-&gt;</span>
             </h2>
             <p>
               Discover and deploy boilerplate example NextJS&nbsp;projects.
@@ -100,7 +100,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2>
-              Deploy <span>-&gt;</span>
+              DEPLOY <span>-&gt;</span>
             </h2>
             <p>
               Instantly deploy your NextJS site to a shareable URL

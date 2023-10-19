@@ -1,9 +1,9 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import { Inter } from 'next/font/google'
-import styles from '@/styles/Home.module.css'
+import Head from "next/head";
+import Image from "next/image";
+import { Inter } from "next/font/google";
+import styles from "@/styles/Home.module.css";
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   return (
@@ -26,7 +26,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              By{' '}
+              By{" "}
               <Image
                 src="/vercel.svg"
                 alt="Vercel Logo"
@@ -58,11 +58,9 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2>
-              DOCS <span>-&gt;</span>
+              DOCUMENTATION <span>-&gt;</span>
             </h2>
-            <p>
-              Find in-depth information about NextJS features and&nbsp;API.
-            </p>
+            <p>Find in-depth information about NextJS features and&nbsp;API.</p>
           </a>
 
           <a
@@ -72,7 +70,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2>
-              LEARN <span>-&gt;</span>
+              LEARN MORE <span>-&gt;</span>
             </h2>
             <p>
               Learn about NextJS in an interactive course with&nbsp;quizzes!
@@ -86,11 +84,9 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2>
-              TEMPLATES <span>-&gt;</span>
+              VIEW TEMPLATES <span>-&gt;</span>
             </h2>
-            <p>
-              Discover and deploy boilerplate example NextJS&nbsp;projects.
-            </p>
+            <p>Discover and deploy boilerplate example NextJS&nbsp;projects.</p>
           </a>
 
           <a
@@ -100,7 +96,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2>
-              DEPLOY <span>-&gt;</span>
+              DEPLOY YOUR PROJECT <span>-&gt;</span>
             </h2>
             <p>
               Instantly deploy your NextJS site to a shareable URL
@@ -110,5 +106,5 @@ export default function Home() {
         </div>
       </main>
     </>
-  )
+  );
 }

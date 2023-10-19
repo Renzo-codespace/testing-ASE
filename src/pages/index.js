@@ -57,7 +57,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <h2>
+            <h2 {}>
               Testing With Duplicate Project in Same Workspace <span>-&gt;</span>
             </h2>
             <p>

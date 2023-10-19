@@ -96,7 +96,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2>
-              DEPLOY YOUR PROJECT <span>-&gt;</span>
+              Another deployment <span>-&gt;</span>
             </h2>
             <p>
               Instantly deploy your NextJS site to a shareable URL
